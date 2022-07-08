@@ -1,6 +1,7 @@
 package Logger.utils;
 
 public class MessageFormatter {
+    //TODO: fix color codes
     public enum Color {
         RED("\033[0;31m"),
         GREEN("\033[0;32m"),
@@ -18,13 +19,12 @@ public class MessageFormatter {
     private final static  String ANSI_RESET = "\\u001B[0m";
 
     //TODO: Implement and document method
-    public static String format(String msg, Object... params) throws Exception{
-        throw new Exception("methode not implemented");
+    public static String format(String msg, Object... params){
+        return null;
     }
 
-    //TODO: Implement and document method
-    public static String ColorizeMessage(String message, Color color) throws Exception{
-        throw new Exception("method not impemented");
+    public static String ColorizeMessage(String message, Color color){
+        return color.label + message + MessageFormatter.ANSI_RESET;
     }
 
 
