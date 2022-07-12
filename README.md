@@ -20,5 +20,6 @@ mvn package
 
 ## Exécution
 ```
-java -classpath "target/classes" Main
+mvn compile
+mvn exec:java -Dexec.mainClass=Main
 ```

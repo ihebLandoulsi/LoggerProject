@@ -1,0 +1,2 @@
+WARNING [Tue Jul 12 10:42:35 CEST 2022] : this is a warning with 5 as a variable
+INFO [Tue Jul 12 10:42:36 CEST 2022] : this is an info with { testing... } as a variable
