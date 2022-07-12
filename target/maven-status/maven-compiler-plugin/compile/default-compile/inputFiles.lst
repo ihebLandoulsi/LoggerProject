@@ -1,0 +1,11 @@
+D:\etude\projects\web\tests technique\LoggerProject\src\main\java\Main.java
+D:\etude\projects\web\tests technique\LoggerProject\src\main\java\Logger\logStrategy\Fatal.java
+D:\etude\projects\web\tests technique\LoggerProject\src\main\java\Logger\Logger.java
+D:\etude\projects\web\tests technique\LoggerProject\src\main\java\Logger\utils\FileHandler.java
+D:\etude\projects\web\tests technique\LoggerProject\src\main\java\Logger\logStrategy\Critical.java
+D:\etude\projects\web\tests technique\LoggerProject\src\main\java\Logger\logStrategy\Info.java
+D:\etude\projects\web\tests technique\LoggerProject\src\main\java\Logger\logStrategy\LogLevelStrategy.java
+D:\etude\projects\web\tests technique\LoggerProject\src\main\java\Logger\ILogger.java
+D:\etude\projects\web\tests technique\LoggerProject\src\main\java\Logger\utils\MessageFormatter.java
+D:\etude\projects\web\tests technique\LoggerProject\src\main\java\Logger\logStrategy\Warn.java
+D:\etude\projects\web\tests technique\LoggerProject\src\main\java\Logger\logStrategy\Debug.java
