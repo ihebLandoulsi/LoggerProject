@@ -15,7 +15,7 @@ Si la taille du fichier log dépasse la limite prédéfini, il sera alors compri
 ## Installation
 
 ```
-nvm package 
+mvn package 
 ```
 
 ## Exécution
